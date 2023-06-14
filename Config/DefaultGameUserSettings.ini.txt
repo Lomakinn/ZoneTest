@@ -1,0 +1,9 @@
+[/Script/Engine.GameUserSettings]
+bUseVSync=False
+ResolutionSizeX=1792
+ResolutionSizeY=828
+WindowPosX=-1
+WindowPosY=-1
+bUseDesktopResolutionForFullscreen=False
+FullscreenMode=2
+Version=5
