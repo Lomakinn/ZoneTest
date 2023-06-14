@@ -1191,3 +1191,4 @@ Intermediate/Source/ZoneTest.cpp
 Intermediate/Source/ZoneTest.Target.cs
 Intermediate/Staging/ZoneTest.exe
 Intermediate/Staging/ZoneTest.upluginmanifest
+*.log
